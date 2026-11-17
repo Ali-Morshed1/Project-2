@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "C#_Array_Exercises/1.0.0": {
+        "runtime": {
+          "C#_Array_Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Array_Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

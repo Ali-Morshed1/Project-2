@@ -1,0 +1,14 @@
+C:\Projects\Project 2\ConsoleApp2\bin\Debug\net10.0\C#_Array_Exercises.exe
+C:\Projects\Project 2\ConsoleApp2\bin\Debug\net10.0\C#_Array_Exercises.deps.json
+C:\Projects\Project 2\ConsoleApp2\bin\Debug\net10.0\C#_Array_Exercises.runtimeconfig.json
+C:\Projects\Project 2\ConsoleApp2\bin\Debug\net10.0\C#_Array_Exercises.dll
+C:\Projects\Project 2\ConsoleApp2\bin\Debug\net10.0\C#_Array_Exercises.pdb
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.AssemblyInfoInputs.cache
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.AssemblyInfo.cs
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.csproj.CoreCompileInputs.cache
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.dll
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\refint\C#_Array_Exercises.dll
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.pdb
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\C#_Array_Exercises.genruntimeconfig.cache
+C:\Projects\Project 2\ConsoleApp2\obj\Debug\net10.0\ref\C#_Array_Exercises.dll
